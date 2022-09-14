@@ -1,7 +1,7 @@
 # Hi there, welcome to my GitHub page !
 
 ## Education
-- I’m a fourth year Electrical - Electronics Engineering student at Piri Reis University
+- Fourth year Electrical - Electronics Engineering student at Piri Reis University
 ## Skills
 - Audio, Image, Video Processing - Java(Cv) // Embedded Systems - C/C++ // Linux - CentOS, Red Hat, Ubuntu // PLC - CodeSys(new) 
 ## Contact
