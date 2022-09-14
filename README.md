@@ -3,7 +3,7 @@
 ## Education
 - I’m a fourth year Electrical - Electronics Engineering student at Piri Reis University
 ## Skills
-- Audio, Image, Video Processing - Java(Cv) // Embedded Systems - C/C++ // PLC - CodeSys(new) // Linux - Ubuntu, CentOS, Red Hat
+- Audio, Image, Video Processing - Java(Cv) // Embedded Systems - C/C++ // Linux - CentOS, Red Hat, Ubuntu // PLC - CodeSys(new) 
 ## Contact
 - mehmetuguryldrm@gmail.com
 - linkedin.com/in/mehmet-uğur-yıldırım
