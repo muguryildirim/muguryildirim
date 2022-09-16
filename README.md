@@ -6,6 +6,7 @@
 - Audio, Image, Video Processing - Java(CV) // Embedded Systems - C/C++ // Linux - CentOS, Red Hat, Ubuntu // PLC - CodeSys(trainee) 
 ## Contact
 - mehmetuguryldrm@gmail.com
-- linkedin.com/in/mehmet-uğur-yıldırım
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> linkedin.com/in/mehmet-uğur-yıldırım
 
 
