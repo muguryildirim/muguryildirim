@@ -6,13 +6,11 @@
 - Audio, Image, Video Processing - Java(CV) // Embedded Systems - C/C++ // Linux - CentOS, Red Hat, Ubuntu // PLC - CodeSys(trainee) 
 ## Contact
 
-
-
 <div id="badges">
-   <a href="https://mehmetuguryldrm@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> mehmetuguryldrm@gmail.com
+</div>
+&nbsp;
+<div id="badges">
   <a href="https://linkedin.com/in/mehmet-uğur-yıldırım"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
