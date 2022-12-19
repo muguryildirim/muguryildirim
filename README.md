@@ -3,7 +3,7 @@ Hi there, welcome to my GitHub page !
               
 ## Education
 - Fourth year Electrical - Electronics Engineering student at Piri Reis University
-- 
+
 ## Skills
 - Java // Embedded Systems - C++ // Linux - Red Hat, Ubuntu 
 ## 🌐 Socials:
@@ -19,6 +19,7 @@ Hi there, welcome to my GitHub page !
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-uğur-yıldırım) 
 
