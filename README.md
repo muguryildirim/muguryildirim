@@ -5,7 +5,6 @@ Hi there, I am Mehmet Uğur Yıldırım, welcome to my GitHub page !
 - Fourth year Electrical - Electronics Engineering student at Piri Reis University
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-uğur-yıldırım" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-uğur-yıldırım" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/daikieleven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daikieleven" height="30" width="40" /></a>
