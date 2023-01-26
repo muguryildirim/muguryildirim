@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am Mehmet Uğur Yıldırım, welcome to my GitHub page !
+Hi, I am Mehmet Uğur Yıldırım, welcome to my GitHub page !
               
 ## Education
 - Fourth year Electrical - Electronics Engineering student at Piri Reis University
