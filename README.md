@@ -14,7 +14,7 @@ Feel free to explore my GitHub repositories for projects and code samples.
 
 You can connect with me on Gmail, LinkedIn, and LeetCode:
 
-- Gmail: [mailto:mehmetuguryldrm@gmail.com]
-- LinkedIn: [linkedin.com/in/mehmet-uğur-yıldırım]
-- LeetCode: [https://leetcode.com/muyildirim/]
+- Gmail: [Gmail](mailto:mehmetuguryldrm@gmail.com)
+- LinkedIn: [Linkedin](linkedin.com/in/mehmet-uğur-yıldırım)
+- LeetCode: [LeetCode](https://leetcode.com/muyildirim)
 
