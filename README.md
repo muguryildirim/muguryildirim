@@ -8,8 +8,6 @@ I am a Software Engineer with a degree in Electrical and Electronic Engineering 
 - Version Control: SVN, Git, GitHub
 - Operating Systems: Linux (Ubuntu, CentOS, RHEL)
 
-Feel free to explore my GitHub repositories for projects and code samples.
-
 ### Contact
 
 You can connect with me via Gmail and LinkedIn, or you can access my LeetCode profile:
