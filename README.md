@@ -1,10 +1,7 @@
-## Mehmet Uğur Yıldırım - Software Engineer
-
-## About Me
-
+### Mehmet Uğur Yıldırım - Software Engineer
 I am a Software Engineer with a degree in Electrical and Electronic Engineering from Piri Reis University. I have a strong passion for coding and technology, and I enjoy working on various software projects. 
 
-## Technologies and Skills
+### Technologies and Skills
 
 - Programming Languages: Java, C++
 - User Interface Development: JavaFX, Swing, Qt
@@ -13,7 +10,7 @@ I am a Software Engineer with a degree in Electrical and Electronic Engineering 
 
 Feel free to explore my GitHub repositories for projects and code samples.
 
-## Contact
+### Contact
 
 You can connect with me on Gmail, LinkedIn, and LeetCode:
 
