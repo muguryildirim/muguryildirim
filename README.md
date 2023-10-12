@@ -4,9 +4,11 @@ I am a Software Engineer with a degree in Electrical and Electronic Engineering 
 ### Technologies and Skills
 
 - Programming Languages: Java, C++
-- User Interface Development: JavaFX, Swing, Qt
+- User Interface Development: JavaFX (Scene Builder), Swing, Qt
 - Version Control: SVN, Git, GitHub
 - Operating Systems: Linux (Ubuntu, CentOS, RHEL)
+- Database Management: MySQL
+- Data Streaming and Event Processing: Apache Kafka
 
 ### Contact
 
