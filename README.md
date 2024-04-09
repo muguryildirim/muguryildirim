@@ -1,5 +1,6 @@
 ### Mehmet Uğur Yıldırım - Software Engineer
-I am a Software Engineer with a degree in Electrical and Electronic Engineering from Piri Reis University. I have a strong passion for coding and technology, and I enjoy working on various software projects. 
+- Software Engineer
+- Electrical & Electronics Engineer | Piri Reis University | Graduated - 2023
 
 ### Technologies and Skills
 
