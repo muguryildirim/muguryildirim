@@ -5,7 +5,7 @@
 ### Technologies and Skills
 
 - Programming Languages: Java
-- User Interface Development: JavaFX (Scene Builder), Swing
+- User Interface Development: JavaFX, Swing
 - Version Control: SVN, Git, GitHub
 - Operating Systems: Linux (Ubuntu, CentOS, RHEL)
 - Database Management: MySQL
